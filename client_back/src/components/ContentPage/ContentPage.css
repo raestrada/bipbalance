@@ -11,14 +11,6 @@
 .BipCardIdForm {
   margin: 0 auto;
   padding-top: 100px;
-  padding-bottom: 10px;
-  align-content: center;
-  max-width: var(--max-content-width);
-}
-
-.BipCardBalanceForm {
-  margin: 0 auto;
-  padding-top: 10px;
   padding-bottom: 100px;
   align-content: center;
   max-width: var(--max-content-width);
