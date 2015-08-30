@@ -9,8 +9,6 @@ if __name__ == '__main__':
     with ghost.start() as browser:
         page, resources = browser.open(bip_balance_url)
 
-        import ipdb; ipdb.set_trace()
-
         result, resources = browser.set_field_value("input[id=txtNumTarjeta]", "14219394")
         page, resources = browser.click("input[id=btnEnviar]", expect_loading=True)
 
