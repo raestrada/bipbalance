@@ -1,0 +1,72 @@
+#header {
+    background-color: #393939;
+    margin-left: 0px;
+    margin-right: 0px;
+    position:fixed;
+    left:0px;
+    top:0px;
+    width:100%;
+    height:30px;
+}
+
+#footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    background-color: #393939;
+    color: #FFC6AA;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #393939;
+}
+
+.navbar-default {
+    border-color: #393939;
+}
+
+.navbar-brand {
+    padding: 0px;
+}
+
+.navbar-collapse {
+    background-color: #393939;
+}
+
+
+
+.clickeable {
+
+}
+
+.horizontal-divider {
+
+}
+
+.clip-description {
+    border-style:solid;
+    border-width:2px;
+    border-color: gray;
+}
+
+.ContentPage {
+  margin: 0 auto;
+    padding-left: 100px ;
+}
+
+.BipCardIdForm {
+  margin: 0 auto;
+  padding-top: 100px;
+  padding-bottom: 10px;
+  align-content: center;
+}
+
+.BipCardBalanceForm {
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 100px;
+  align-content: center;
+}
